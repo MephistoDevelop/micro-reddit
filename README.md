@@ -11,9 +11,6 @@ Full description:
 -The objetive from this project is build the core of logic from Facebook page.
 
 
-![screenshot](./socialbook.gif)
-
-
 ## Built With Ruby , Ruby on Rails, Heroku
 Tools used to build Aplication:
 
@@ -21,9 +18,6 @@ Tools used to build Aplication:
 - Ruby on Rails
 - Heroku
 
-## Live Demo
-
- [Live view - SocialBook Page](https://github.com/MephistoDevelop/micro-reddit
  
 ## PROTOCOLS
 
