@@ -16,8 +16,6 @@ Tools used to build Aplication:
 
 - Ruby
 - Ruby on Rails
-- Heroku
-
  
 ## PROTOCOLS
 
@@ -25,11 +23,7 @@ Tools used to build Aplication:
 
 ## Getting Started
 
-- Principal Functions:
-  - Create Account Using Real Email confirmation
-  - Create Login with your Facebook acccount
-  - Send friends Requests
-  - Views publications from others friends
+This repository save one project from TheOdinPage from Microverse Ruby on Rails course to learn how to manage the relationships on Active record using SQLlite Database and Ruby on Rails framework using the rails console to display and check the information
 
 #### Language Requirements
 
