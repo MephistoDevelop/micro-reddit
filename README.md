@@ -1,7 +1,7 @@
 # Building with Active Record
 
 
-> Project taked from Microverse Curriculum from [The Odin Page project Site]().
+> Project taked from Microverse Curriculum from [The Odin Page project Site](https://github.com/MephistoDevelop/micro-reddit).
 
 Task done as a part of the Microverse Curriculum.
 
@@ -23,7 +23,7 @@ Tools used to build Aplication:
 
 ## Live Demo
 
- [Live view - SocialBook Page]()
+ [Live view - SocialBook Page](https://github.com/MephistoDevelop/micro-reddit
  
 ## PROTOCOLS
 
@@ -119,9 +119,4 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](lic.url) licensed.
 
-### Author:
-
-[Cristian Ines (MephistoDevelop)](https://github.com/MephistoDevelop)
-
-[Sergio Diaz)](https://github.com/serdg0)
 
